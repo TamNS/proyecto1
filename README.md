@@ -4,6 +4,7 @@
 ### tipos
 
 - terrestres
+![Texto alternativo](/ruta/a/la/pie.png "pinky pie")
 
 - Pegasos
  
